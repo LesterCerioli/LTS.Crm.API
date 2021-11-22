@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTS.Crm.API", "sources\LTS.Crm.API\LTS.Crm.API.csproj", "{C5ED5A87-8752-4304-ABDB-84E479803CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5ED5A87-8752-4304-ABDB-84E479803CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5ED5A87-8752-4304-ABDB-84E479803CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5ED5A87-8752-4304-ABDB-84E479803CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5ED5A87-8752-4304-ABDB-84E479803CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14095BDD-C167-4C55-967C-876D495EE638}
+	EndGlobalSection
+EndGlobal
